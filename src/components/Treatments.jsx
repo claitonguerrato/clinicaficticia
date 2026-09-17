@@ -12,7 +12,7 @@ const TREATMENTS = [
   {
     title: 'Ortodontia',
     text: 'Tratamentos modernos para alinhar seus dentes e melhorar sua saúde bucal.',
-    image: 'https://images.unsplash.com/photo-1601590009855-16b0e0c9ba31?q=80&w=800&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?q=80&w=800&auto=format&fit=crop',
     icon: (
       <path d="M4 9c3-3 13-3 16 0M6 12c2.5-1.8 9.5-1.8 12 0M8 15c1.8-1 6.2-1 8 0" />
     ),
@@ -20,7 +20,7 @@ const TREATMENTS = [
   {
     title: 'Lentes Dentais',
     text: 'Estética e harmonia para um sorriso mais confiante.',
-    image: 'https://images.unsplash.com/photo-1541604193435-422b5a72ba97?q=80&w=800&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?q=80&w=800&auto=format&fit=crop',
     icon: (
       <path d="M6 8c0-2.2 2.7-4 6-4s6 1.8 6 4c0 3.2-1.6 9-3.2 11-.9 1.1-1.8 1-2.8 1s-1.9.1-2.8-1C7.6 17 6 11.2 6 8z" />
     ),
@@ -28,7 +28,7 @@ const TREATMENTS = [
   {
     title: 'Clareamento Dental',
     text: 'Mais luminosidade e um sorriso renovado.',
-    image: 'https://images.unsplash.com/photo-1581585504071-b7fce9403751?q=80&w=800&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?q=80&w=800&auto=format&fit=crop',
     icon: (
       <path d="M12 3v2.2M12 18.8V21M4.5 12h2.2M17.3 12h2.2M6.7 6.7l1.5 1.5M15.8 15.8l1.5 1.5M17.3 6.7l-1.5 1.5M8.2 15.8l-1.5 1.5M12 8.4a3.6 3.6 0 100 7.2 3.6 3.6 0 000-7.2z" />
     ),
